@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SecretaryMurgi_Pablo</string>
+    <string name="hintet">Name and Surname</string>
+    <string name="curso">Course:</string>
+    <string name="bachillerato">High school</string>
+    <string name="FP">Educational cycle</string>
+    <string name="Toastmsg">To send your request click on the LOGO</string>
+</resources>

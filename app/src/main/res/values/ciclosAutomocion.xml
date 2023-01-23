@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ciclos_Automocion">
+        <item>Técnico Superior en Automoción</item>
+        <item>Técnico Superior en Mantenimiento Aeromecánico de Helicópteros con Motor de Pistón</item>
+        <item>Técnico Superior en Mantenimiento Aeromecánico de Aviones con Motor de Turbina</item>
+    </string-array>
+</resources>

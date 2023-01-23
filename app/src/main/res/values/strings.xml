@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SecretariaMurgi_Pablo</string>
+    <string name="hintet">Nombre y apellido</string>
+    <string name="curso">curso:</string>
+    <string name="bachillerato">bachillerato</string>
+    <string name="FP">Ciclo Formativo</string>
+    <string name="Toastmsg">Para enviar tu solicitud pulsa en el LOGO</string>
+</resources>
